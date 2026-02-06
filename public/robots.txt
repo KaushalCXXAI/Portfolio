@@ -1,0 +1,6 @@
+# Robots.txt for kaushalrangani.in
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://kaushalrangani.in/sitemap.xml
